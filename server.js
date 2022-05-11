@@ -1,3 +1,4 @@
+// Pastikan Kalian Sudah Menjalankan (npm run configure) untuk pertama kali
 // panggil semua data yang sudah di install [mysql, express, ejs]
 const express = require('express');
 const mysql = require('mysql');
