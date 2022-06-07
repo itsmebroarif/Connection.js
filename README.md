@@ -1,6 +1,6 @@
 # Connection JS
 ---
-#### Ngambil Data Dari Sql Jadi Lebih Gampang Cuy
+#### Ngecek Data Dari Sql Jadi Lebih Gampang Cuy
 
 ## 1. Installasi Ama Konfig dikit Broh Disini, Ini Controller sama Model Lu Jatohnya wkwk
 
